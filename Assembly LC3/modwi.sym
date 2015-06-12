@@ -1,0 +1,5 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	EXIT                    300B
+//	FINISH                  300A
+//	LOOP                    3007

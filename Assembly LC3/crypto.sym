@@ -1,0 +1,21 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CPOS                    305B
+//	CPOSA                   3055
+//	DONE                    3037
+//	EXIT                    3052
+//	FINISH                  303F
+//	FINITO                  302D
+//	LEN                     3059
+//	LOOP                    3011
+//	LOOPA                   303A
+//	LOOPB                   304F
+//	MOD                     304B
+//	MOVES                   3056
+//	NEXTWORD                300B
+//	SF                      3057
+//	TOTAL                   305A
+//	TOTALA                  3054
+//	TS                      3058
+//	WCOUNT                  3038
+//	XOR                     3040
